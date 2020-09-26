@@ -4,7 +4,7 @@
 
 ## Descrição
 
-![alt text](https://github.com/afa7789/simple-game-fall-stuff/master/printGame1.png)
+![alt text](https://github.com/afa7789/simple-game-fall-stuff/blob/master/printGame1.png)
 
 Magic Journey é apenas um jogo simples, de desviar de objetos que caem de cima, foi feito em .c e opengl, com algumas outras blibiotecas como soil e etc. E foi a primeira experiência complicada que tive de programação. Obviamente é um programa sem muita documentação, e com escopo reduzido
 
